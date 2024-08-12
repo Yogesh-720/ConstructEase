@@ -4,7 +4,7 @@ import { project1,project2,project3,project4,customer1,customer2 } from "../asse
 export const navLinks = [
     { href: "#Home", label: "Home" },
     { href: "#about-us", label: "About Us" },
-    { href: "#projects", label: "Projects" },
+    { href: "#services", label: "Services" },
     { href: "#contact-us", label: "Contact Us" },
 ];
 

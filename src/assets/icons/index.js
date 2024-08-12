@@ -15,7 +15,7 @@ import support from './support.svg'
 import design from './design.svg'
 import safety from './safety.svg'
 import material from './material.svg'
-
+import closeIcon from './closeIcon.svg'
 export {
     arrowRight,
     cheveronRight,
@@ -34,4 +34,5 @@ export {
     design,
     safety,
     material,
+    closeIcon
 }
